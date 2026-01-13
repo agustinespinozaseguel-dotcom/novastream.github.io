@@ -1,0 +1,8 @@
+{
+  "name": "NovaStream - Video Community",
+  "description": "A sleek, community-driven video sharing platform where users can upload content, adjust playback quality, and use AI to enhance their video descriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
